@@ -12,4 +12,6 @@ https://fonts.google.com/
 <h2>ICONOS </h2>
 https://fonts.google.com/icons?selected=Material+Icons
 
-
+<h2>EDITAR IMAGENES (quitar fondo, reducir imagenes, etc) </h2>
+https://pixlr.com/es/remove-background/
+https://www.iloveimg.com/es/redimensionar-imagen/png-cambiar-tamano
