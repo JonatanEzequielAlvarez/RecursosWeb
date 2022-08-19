@@ -1,4 +1,4 @@
-# ResourcesWEB
+# Recursos web
 Recursos para creación de paginas web
 
 <h2>IMAGENES - GIF </h2> <br>
