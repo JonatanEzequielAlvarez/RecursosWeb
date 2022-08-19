@@ -10,7 +10,8 @@ https://pixabay.com/es/ <br>
 https://fonts.google.com/
 
 <h2>ICONOS </h2>
-https://fonts.google.com/icons?selected=Material+Icons
+https://fonts.google.com/icons?selected=Material+Icons <br>
+https://www.flaticon.es/
 
 <h2>EDITAR IMAGENES (quitar fondo, reducir imagenes, etc) </h2>
 https://pixlr.com/es/remove-background/ <br>
