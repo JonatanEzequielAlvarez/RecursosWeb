@@ -15,4 +15,4 @@ https://fonts.google.com/
 
 <h2>EDITAR IMAGENES (quitar fondo, reducir imagenes, etc) </h2>
 https://pixlr.com/es/remove-background/ <br>
-https://www.iloveimg.com/es/redimensionar-imagen/png-cambiar-tamano
+https://www.iloveimg.com/es
